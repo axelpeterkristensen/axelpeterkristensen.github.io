@@ -28,6 +28,6 @@ I am also an editorial assistant for the *European Journal of Population* and re
 :::
 :::
 
-<!-- portrait: add images/axel.jpg and uncomment -->
-<!-- ![](images/axel.jpg){.portrait fig-alt="Portrait of Axel Peter Kristensen"} -->
+![](images/axel.jpg){.portrait fig-alt="Portrait of Axel Peter Kristensen"}
 :::
+
