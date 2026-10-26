@@ -8,14 +8,12 @@ pagetitle: "Axel Peter Kristensen, PhD – Sociologist and demographer"
 # Axel Peter Kristensen
 
 ::: {.lede}
-Sociologist and demographer. I study why people in Norway have fewer children, who remains childless, and how economic uncertainty and new family forms shape those outcomes.
+Sociologist and demographer with a PhD from the University of Oslo. I work quantitatively with large datasets, statistical analysis and data preparation, mostly register and survey data, mainly in R and Stata.
 :::
 
-I completed my PhD in sociology at the University of Oslo in January 2026, with the dissertation *Fertility Decline and Rising Childlessness: The Roles of Economic Uncertainty, Subjective Perceptions, and Social Parenting in Norway*, supervised by Trude Lappegård. My work combines Norwegian register data with survey data from the Generations and Gender Survey (GGS 2020/2024), a collaboration between the University of Oslo and Statistics Norway.
+My research has centred on population and family topics: fertility, gender equality, childlessness and partnerships, and how unemployment and economic uncertainty relate to family formation. I completed my PhD in January 2026 with the dissertation *Fertility Decline and Rising Childlessness: The Roles of Economic Uncertainty, Subjective Perceptions, and Social Parenting in Norway*, supervised by Trude Lappegård.
 
-I work with large-scale quantitative data, mainly in R and Stata, and I am used to turning complex register and survey material into analyses that can be read and used by people outside research. I am currently available for research and analysis positions, in and outside academia.
-
-I am also an editorial assistant for the *European Journal of Population* and reviewer for *Genus*.
+Alongside research I am an editorial assistant for the *European Journal of Population*. I am currently available for research and analysis positions, in and outside academia.
 
 ## Contact
 
@@ -24,10 +22,9 @@ I am also an editorial assistant for the *European Journal of Population* and re
 - [Google Scholar](https://scholar.google.com/citations?user=yT4XngUAAAAJ)
 - [ORCID](https://orcid.org/0009-0003-6173-1907)
 - [ResearchGate](https://www.researchgate.net/scientific-contributions/Axel-Peter-Kristensen)
-- [LinkedIn](https://www.linkedin.com/in/axelpeterkristensen/)
+- [LinkedIn](https://www.linkedin.com/in/axel-peter-kristensen/)
 :::
 :::
 
 ![](images/axel.jpg){.portrait fig-alt="Portrait of Axel Peter Kristensen"}
 :::
-
