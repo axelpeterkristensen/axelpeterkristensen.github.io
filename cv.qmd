@@ -1,0 +1,53 @@
+---
+title: "CV"
+pagetitle: "CV – Axel Peter Kristensen"
+---
+
+# CV
+
+::: {.cv}
+
+## Education
+
+<dl>
+<dt>2021–2026</dt><dd>PhD in Sociology, University of Oslo<small>Dissertation: Fertility Decline and Rising Childlessness. Supervisor: Trude Lappegård.</small></dd>
+<dt>–2019</dt><dd>Master of Sociology, University of Oslo<small>Thesis on unemployment and fertility in Norway.</small></dd>
+</dl>
+
+## Positions
+
+<dl>
+<dt>2021–2025</dt><dd>Doctoral Research Fellow, Department of Sociology and Human Geography, University of Oslo</dd>
+<dt>2025–2026</dt><dd>Researcher, University of Oslo</dd>
+</dl>
+
+## Service
+
+<dl>
+<dt>Editorial</dt><dd>Editorial assistant, <em>European Journal of Population</em></dd>
+<dt>Review</dt><dd>Reviewer for <em>Genus</em></dd>
+</dl>
+
+## Teaching
+
+<dl>
+<dt>UiO</dt><dd>Teaching in sociology and quantitative methods, including fully digital teaching (recorded lectures and live online seminars) during the pandemic.</dd>
+</dl>
+
+## Talks
+
+<dl>
+<dt>Nov 2026</dt><dd>Invited speaker, Kilden kjønnsforskning seminar «Fedre i dag og i går», Litteraturhuset, Oslo</dd>
+</dl>
+
+## Skills
+
+<dl>
+<dt>Methods</dt><dd>Register data, survey data, panel and event-history analysis, causal inference</dd>
+<dt>Software</dt><dd>R, Stata</dd>
+<dt>Languages</dt><dd>Norwegian (native), English (fluent)</dd>
+</dl>
+
+:::
+
+A full CV as PDF is available on request: [axelpeterkristensen@gmail.com](mailto:axelpeterkristensen@gmail.com).

@@ -1,0 +1,68 @@
+---
+title: "Research"
+pagetitle: "Research – Axel Peter Kristensen"
+---
+
+# Research
+
+::: {.lede}
+Fertility and family demography in Norway: economic uncertainty, childlessness, social parenting, and gender.
+:::
+
+Two questions run through my work. First, how do objective and subjective economic uncertainty, from unemployment to pessimistic expectations about the future, affect whether people want children and whether they actually have them? Second, as more people separate and form new partnerships, what does living with a partner's children mean for one's own fertility and for who ends up childless? The short answer from the dissertation: perceived insecurity lowers fertility independently of actual income and employment, and a growing share of "childless" men are in fact raising children as social fathers.
+
+## Journal articles
+
+```{=html}
+<div class="pub"><span class="year">2026</span>
+<a class="title" href="https://doi.org/10.1080/00324728.2026.2649772">Social parenting and childlessness in Norway: Associations by sex and economic uncertainty</a>
+<div class="meta">Kristensen, A. P. &amp; Lappegård, T. <em>Population Studies</em>. <a class="doi" href="https://doi.org/10.1080/00324728.2026.2649772">doi</a></div></div>
+
+<div class="pub"><span class="year">2025</span>
+<a class="title" href="https://doi.org/10.1186/s41118-025-00278-9">Disentangling the relative importance of subjective economic uncertainty for fertility intentions and realization in Norway</a>
+<div class="meta">Lappegård, T., Kristensen, A. P. &amp; Dommermuth, L. <em>Genus</em>, 81(1), 37. <a class="doi" href="https://doi.org/10.1186/s41118-025-00278-9">doi</a></div></div>
+
+<div class="pub"><span class="year">2025</span>
+<a class="title" href="https://doi.org/10.1215/00703370-11873548">Social fathering and childlessness</a>
+<div class="meta">Kristensen, A. P. &amp; Lappegård, T. <em>Demography</em>, 62(2), 687–706. <a class="doi" href="https://doi.org/10.1215/00703370-11873548">doi</a></div></div>
+
+<div class="pub"><span class="year">2024</span>
+<a class="title" href="https://doi.org/10.1111/padr.12539">Understanding the positive effects of the COVID-19 pandemic on women's fertility in Norway</a>
+<div class="meta">Lappegård, T., Kornstad, T., Dommermuth, L. &amp; Kristensen, A. P. <em>Population and Development Review</em>, 50(S1), 129–152. <a class="doi" href="https://doi.org/10.1111/padr.12539">doi</a></div></div>
+
+<div class="pub"><span class="year">2022</span>
+<a class="title" href="https://doi.org/10.4054/DemRes.2022.46.35">Unemployment and fertility: The relationship between individual and aggregated unemployment and fertility during 1994–2014 in Norway</a>
+<div class="meta">Kristensen, A. P. &amp; Lappegård, T. <em>Demographic Research</em>, 46, 1037–1064. <a class="doi" href="https://doi.org/10.4054/DemRes.2022.46.35">doi</a></div></div>
+
+<div class="pub"><span class="year">2022</span>
+<a class="title" href="https://doi.org/10.1111/jomf.12822">The impact of narratives of the future on fertility intentions in Norway</a>
+<div class="meta">Lappegård, T., Kristensen, A. P., Dommermuth, L., Minello, A. &amp; Vignoli, D. <em>Journal of Marriage and Family</em>, 84(2), 476–493. <a class="doi" href="https://doi.org/10.1111/jomf.12822">doi</a></div></div>
+```
+
+## Dissertation
+
+```{=html}
+<div class="pub"><span class="year">2026</span>
+<span class="title">Fertility Decline and Rising Childlessness: The Roles of Economic Uncertainty, Subjective Perceptions, and Social Parenting in Norway</span>
+<div class="meta">PhD dissertation, Department of Sociology and Human Geography, University of Oslo. Defended 5 January 2026. Committee: Alícia Adserà (Princeton), Ann Berrington (Southampton), Alexi Gugushvili (Oslo).</div></div>
+```
+
+## Other writing
+
+```{=html}
+<div class="pub"><span class="year">2023</span>
+<span class="title">Low fertility in Norway and policy implications</span>
+<div class="meta">Lappegård, T. &amp; Kristensen, A. P. <em>Health and Social Welfare Review</em> (published in Korean).</div></div>
+
+<div class="pub"><span class="year">2020</span>
+<a class="title" href="https://blogs.lse.ac.uk/europpblog/">Covid-19 could generate a baby 'bust' in the Nordic countries</a>
+<div class="meta">Lappegård, T., Kristensen, A. P. &amp; Mamelund, S.-E. LSE European Politics and Policy (EUROPP) blog.</div></div>
+
+<div class="pub"><span class="year">2019</span>
+<span class="title">Arbeidsledighet og fruktbarhet</span>
+<div class="meta">Master's thesis in sociology, University of Oslo. A quantitative study of individual and aggregate unemployment and the fertility behaviour of women and men.</div></div>
+```
+
+## Data and methods
+
+Norwegian administrative register data (individual, municipal and national level), the Generations and Gender Survey (GGS 2020/2024), panel and event-history methods. Analyses in R and Stata.
