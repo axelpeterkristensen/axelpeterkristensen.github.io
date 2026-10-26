@@ -28,7 +28,7 @@ website:
       - text: "ORCID"
         href: https://orcid.org/0009-0003-6173-1907
       - text: "LinkedIn"
-        href: https://www.linkedin.com/in/axelpeterkristensen/
+        href: https://www.linkedin.com/in/axel-peter-kristensen/
   search: false
   open-graph: true
   twitter-card: false
@@ -46,5 +46,5 @@ format:
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
         <script type="application/ld+json">
-        {"@context":"https://schema.org","@type":"Person","name":"Axel Peter Kristensen","jobTitle":"Sociologist and demographer","alumniOf":{"@type":"CollegeOrUniversity","name":"University of Oslo"},"email":"mailto:axelpeterkristensen@gmail.com","sameAs":["https://orcid.org/0009-0003-6173-1907","https://scholar.google.com/citations?user=yT4XngUAAAAJ","https://www.linkedin.com/in/axelpeterkristensen/"]}
+        {"@context":"https://schema.org","@type":"Person","name":"Axel Peter Kristensen","jobTitle":"Sociologist and demographer","alumniOf":{"@type":"CollegeOrUniversity","name":"University of Oslo"},"email":"mailto:axelpeterkristensen@gmail.com","sameAs":["https://orcid.org/0009-0003-6173-1907","https://scholar.google.com/citations?user=yT4XngUAAAAJ","https://www.linkedin.com/in/axel-peter-kristensen/"]}
         </script>
