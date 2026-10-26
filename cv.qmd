@@ -10,44 +10,72 @@ pagetitle: "CV – Axel Peter Kristensen"
 ## Education
 
 <dl>
-<dt>2021–2026</dt><dd>PhD in Sociology, University of Oslo<small>Dissertation: Fertility Decline and Rising Childlessness. Supervisor: Trude Lappegård.</small></dd>
-<dt>–2019</dt><dd>Master of Sociology, University of Oslo<small>Thesis on unemployment and fertility in Norway.</small></dd>
+<dt>2021–2026</dt><dd>PhD in Sociology, University of Oslo<small>Dissertation: <em>Fertility Decline and Rising Childlessness: The Roles of Economic Uncertainty, Subjective Perceptions, and Social Parenting in Norway</em>. Defended 5 January 2026. Supervisor: Trude Lappegård.</small></dd>
+<dt>2017–2019</dt><dd>Master of Sociology, University of Oslo<small>Thesis: <em>Fertility Responses to Individual and Contextual Unemployment in Norway</em>. Grade A.</small></dd>
+<dt>2013–2016</dt><dd>Bachelor of Sociology, University of Oslo<small>Thesis: <em>Fertility and the Welfare State</em>, a comparative analysis of fertility across welfare-state regimes. Grade A.</small></dd>
+<dt>2019</dt><dd>SPS Summer Academy, European University Institute, Florence</dd>
 </dl>
 
 ## Positions
 
 <dl>
+<dt>2025–2026</dt><dd>Researcher, Department of Sociology and Human Geography, University of Oslo<small>Analysis of register and survey data, writing and revising journal articles, project development and research communication.</small></dd>
 <dt>2021–2025</dt><dd>Doctoral Research Fellow, Department of Sociology and Human Geography, University of Oslo</dd>
-<dt>2025–2026</dt><dd>Researcher, University of Oslo</dd>
-</dl>
-
-## Service
-
-<dl>
-<dt>Editorial</dt><dd>Editorial assistant, <em>European Journal of Population</em></dd>
-<dt>Review</dt><dd>Reviewer for <em>Genus</em></dd>
+<dt>2020</dt><dd>Research Assistant, Department of Sociology and Human Geography, University of Oslo<small>Falling Fertility and Rising Social Inequalities project. Analysis of experimental survey data and panel data in Stata; planning and questionnaire translation for the Norwegian Generations and Gender Survey (GGS).</small></dd>
+<dt>2019</dt><dd>Research Assistant, Statistics Norway, Research Department (Social and Demographic Research)<small>Data collection and article writing for the Falling Fertility project; lab experiments with over 800 participants across 20 sessions; co-organised a conference for European demographers.</small></dd>
+<dt>2021–</dt><dd>Editorial Assistant, <em>European Journal of Population</em><small>Initial assessment of submitted manuscripts and coordination with handling editors.</small></dd>
 </dl>
 
 ## Teaching
 
 <dl>
-<dt>UiO</dt><dd>Teaching in sociology and quantitative methods, including fully digital teaching (recorded lectures and live online seminars) during the pandemic.</dd>
+<dt>2021–2025</dt><dd>Seminar leader and instructor in quantitative methods (R) and academic writing, bachelor level, University of Oslo<small>Including grading of R-based exams and serving as course instructor on exam days. Fully digital teaching during the pandemic.</small></dd>
+<dt>2022–2024</dt><dd>University pedagogy certification (universitetspedagogisk basiskompetanse), University of Oslo</dd>
 </dl>
 
-## Talks
+## Conference presentations
 
 <dl>
-<dt>Nov 2026</dt><dd>Invited speaker, Kilden kjønnsforskning seminar «Fedre i dag og i går», Litteraturhuset, Oslo</dd>
+<dt>2026</dt><dd>Skagerrak Demographic Series, Norway: <em>Role of Men in the Second Demographic Transition</em></dd>
+<dt>2025</dt><dd>International Population Conference, Brisbane; University of Iceland, Reykjavik; Nordic Demographic Symposium, Middelfart (poster): <em>Disentangling economic uncertainty for fertility</em></dd>
+<dt>2025</dt><dd>SUDA, Stockholm University: <em>Social parenting as a pathway to childlessness</em></dd>
+<dt>2024</dt><dd>European Population Conference, Edinburgh; Gender and Social Inequality in Fertility, Oslo: <em>Childlessness and social fatherhood</em></dd>
+<dt>2023</dt><dd>PAA Annual Meeting, New Orleans: <em>Childlessness and social fatherhood</em></dd>
+<dt>2023</dt><dd>Max Planck Research Group, Berlin: <em>Childlessness and partnership trajectories among men</em></dd>
+<dt>2022</dt><dd>EAPS Working Group, Rostock; European Population Conference, Groningen (poster); Nordic Demographic Symposium, Oslo (poster): <em>Childlessness and partnership histories among men</em></dd>
+</dl>
+
+## Invited talks
+
+<dl>
+<dt>Nov 2026</dt><dd>Kilden kjønnsforskning seminar «Fedre i dag og i går», Litteraturhuset, Oslo</dd>
+</dl>
+
+## Public engagement and media
+
+<dl>
+<dt>2026</dt><dd>Interviewed in <em>The New York Times</em> (A. L. Sussman, «Why So Few Babies?») and by Kilden kjønnsforskning.no on childless men who parent in practice</dd>
+<dt>2023</dt><dd>sosiologen.no: «Arbeidsledighet – min eller din?»</dd>
+<dt>2022</dt><dd><em>Aftenposten</em>, op-ed with Lappegård, Kornstad and Dommermuth on births during the pandemic</dd>
+<dt>2020</dt><dd><em>Dagens Næringsliv</em>, op-ed with Lappegård on the corona crisis and births in Norway; LSE EUROPP blog with Lappegård and Mamelund; interviewed by forskning.no</dd>
+</dl>
+
+## Service
+
+<dl>
+<dt>2024</dt><dd>Co-organiser, international conference <em>Gender and Social Inequality in Fertility</em>, Oslo, 21–22 March (with Trude Lappegård and Elisa Brini)</dd>
+<dt>Review</dt><dd>Reviewer for <em>Genus</em></dd>
+<dt>2015–2016</dt><dd>Student representative, department board and hiring committee, Department of Sociology and Human Geography, University of Oslo</dd>
 </dl>
 
 ## Skills
 
 <dl>
-<dt>Methods</dt><dd>Register data, survey data, panel and event-history analysis, causal inference</dd>
-<dt>Software</dt><dd>R, Stata</dd>
-<dt>Languages</dt><dd>Norwegian (native), English (fluent)</dd>
+<dt>Methods</dt><dd>Register and survey data, longitudinal and event-history analysis, regression models, sequence and cluster analysis, experimental data; linking, processing and visualising large datasets</dd>
+<dt>Software</dt><dd>R and Stata (extensive, from research, publications and teaching), Python, Git</dd>
+<dt>Languages</dt><dd>Norwegian (native), English (fluent), French (working knowledge)</dd>
 </dl>
 
 :::
 
-A full CV as PDF is available on request: [axelpeterkristensen@gmail.com](mailto:axelpeterkristensen@gmail.com).
+Publications are listed under [Research](research.html). A full CV as PDF is available on request: [axelpeterkristensen@gmail.com](mailto:axelpeterkristensen@gmail.com).
