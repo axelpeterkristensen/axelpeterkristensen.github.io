@@ -23,7 +23,6 @@ pagetitle: "CV – Axel Peter Kristensen"
 <dt>2021–2025</dt><dd>Doctoral Research Fellow, Department of Sociology and Human Geography, University of Oslo</dd>
 <dt>2020</dt><dd>Research Assistant, Department of Sociology and Human Geography, University of Oslo<small>Falling Fertility and Rising Social Inequalities project. Analysis of experimental survey data and panel data in Stata; planning and questionnaire translation for the Norwegian Generations and Gender Survey (GGS).</small></dd>
 <dt>2019</dt><dd>Research Assistant, Statistics Norway, Research Department (Social and Demographic Research)<small>Data collection and article writing for the Falling Fertility project; lab experiments with over 800 participants across 20 sessions; co-organised a conference for European demographers.</small></dd>
-<dt>2021–</dt><dd>Editorial Assistant, <em>European Journal of Population</em><small>Initial assessment of submitted manuscripts and coordination with handling editors.</small></dd>
 </dl>
 
 ## Teaching
@@ -64,7 +63,8 @@ pagetitle: "CV – Axel Peter Kristensen"
 
 <dl>
 <dt>2024</dt><dd>Co-organiser, international conference <em>Gender and Social Inequality in Fertility</em>, Oslo, 21–22 March (with Trude Lappegård and Elisa Brini)</dd>
-<dt>Review</dt><dd>Reviewer for <em>Genus</em></dd>
+<dt>2021–</dt><dd>Editorial Assistant, <em>European Journal of Population</em><small>Initial assessment of submitted manuscripts and coordination with handling editors.</small></dd>
+<dt>ÅÅÅÅ</dt><dd>Reviewer for <em>Genus</em></dd>
 <dt>2015–2016</dt><dd>Student representative, department board and hiring committee, Department of Sociology and Human Geography, University of Oslo</dd>
 </dl>
 
@@ -73,7 +73,7 @@ pagetitle: "CV – Axel Peter Kristensen"
 <dl>
 <dt>Methods</dt><dd>Register and survey data, longitudinal and event-history analysis, regression models, sequence and cluster analysis, experimental data; linking, processing and visualising large datasets</dd>
 <dt>Software</dt><dd>R and Stata (extensive, from research, publications and teaching), Python, Git</dd>
-<dt>Languages</dt><dd>Norwegian (native), English (fluent), French (working knowledge)</dd>
+<dt>Languages</dt><dd>Norwegian (native), English (fluent), French (conversational)</dd>
 </dl>
 
 :::
