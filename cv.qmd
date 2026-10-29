@@ -64,7 +64,6 @@ pagetitle: "CV – Axel Peter Kristensen"
 <dl>
 <dt>2024</dt><dd>Co-organiser, international conference <em>Gender and Social Inequality in Fertility</em>, Oslo, 21–22 March (with Trude Lappegård and Elisa Brini)</dd>
 <dt>2021–</dt><dd>Editorial Assistant, <em>European Journal of Population</em><small>Initial assessment of submitted manuscripts and coordination with handling editors.</small></dd>
-<dt>ÅÅÅÅ</dt><dd>Reviewer for <em>Genus</em></dd>
 <dt>2015–2016</dt><dd>Student representative, department board and hiring committee, Department of Sociology and Human Geography, University of Oslo</dd>
 </dl>
 
